@@ -1,3 +1,3 @@
 # BBB
 
-Main branch is deprecaited, use the development branch.
+Main branch is deprecated, use the development branch to see the final product.
